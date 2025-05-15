@@ -1,5 +1,6 @@
 # Miniature Aircraft Myth in 20th Century China
 This repository accompanies the research paper: 
+
 **Urban Legends or Mass Memory? An Exploratory Study of the “Miniature Flying Craft” Myth in 20th Century China**
 
 ## 🧠 Overview
@@ -18,7 +19,7 @@ This repository contains:
 📌 *All user data was used anonymously for academic research only. No identifying content is stored or published.*
 
 
-🗣️ We welcome discussion!  
+## 🗣️ We welcome discussion!  
 
 If you have personal recollections, insights, or thoughts about the “miniature aircraft” phenomenon, feel free to open an issue or leave a comment in the repository.
 
